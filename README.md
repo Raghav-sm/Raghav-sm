@@ -2,7 +2,7 @@
 
 ---
 
-I'm a **third-year engineering student** majoring in **Electronics**, but my true passion is **coding**. I love anything that involves **heavy logic and implementation**—the more challenging, the better!  
+I'm a **third-year engineering student** majoring in **Electronics**, but my true passion is **coding**. I love anything that involves **heavy logic and implementation**,the more challenging, the better.  
 
 I've **committed** myself to exploring different technologies, from **Machine Learning** to **Java**, and I absolutely enjoy solving problems with **Data Structures and Algorithms**.  
 
