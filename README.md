@@ -12,17 +12,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **third-year engineering student** majoring in **Electronics**, but my true passion is **coding**. I love anything that involves **heavy logic and implementation** - the more challenging, the better!  
 
 I've **committed** myself to exploring different technologies, from **Machine Learning** to **Java**, and I absolutely enjoy solving problems with **Data Structures and Algorithms**.  
 
-**P.S. I might be an Electronics engineer by degree, but I bring more spark to my code than to my circuits!** ⚡😆 
+**P.S. I might be an Electronics engineer by degree, but I bring more spark to my code than to my circuits!** 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -80,7 +80,7 @@ I've **committed** myself to exploring different technologies, from **Machine Le
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raghavsm&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
@@ -88,7 +88,7 @@ I've **committed** myself to exploring different technologies, from **Machine Le
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -101,7 +101,7 @@ I've **committed** myself to exploring different technologies, from **Machine Le
 
 ---
 
-## 🎯 Current Focus & Interests
+## Current Focus & Interests
 
 <div align="center">
 
@@ -128,15 +128,15 @@ mindmap
 
 </div>
 
-- 🔥 **Hardcore Coding** (definitely not design that's not my strong suit!)
-- 🧮 **Data Structures & Algorithms** - solving complex problems daily
-- 🌐 **Full-Stack Development** - building end-to-end applications
-- 🤖 **Machine Learning** - exploring AI and ML concepts
-- 🚀 **Performance Optimization** - making code run faster and better
+- **Hardcore Coding** (definitely not design that's not my strong suit!)
+- **Data Structures & Algorithms** - solving complex problems daily
+- **Full-Stack Development** - building end-to-end applications
+- **Machine Learning** - exploring AI and ML concepts
+- **Performance Optimization** - making code run faster and better
 
 ---
 
-## 📈 Coding Activity
+## Coding Activity
 
 <!--START_SECTION:waka-->
 <!-- This section will be automatically updated if you set up WakaTime -->
@@ -148,7 +148,7 @@ mindmap
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
@@ -159,10 +159,10 @@ mindmap
 
   ---
   
-  ### 💡 Fun Fact: **"Prefix Sum is the best!"** 
+  ### Fun Fact: **"Prefix Sum is the best!"** 
   
   *Always open to interesting conversations about technology, coding challenges, or collaboration opportunities!*
   
-  ⭐️ From [Raghav SM](https://github.com/Raghav-sm) with ❤️
+  From [Raghav SM](https://github.com/Raghav-sm) with ❤️
   
 </div>
