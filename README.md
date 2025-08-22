@@ -10,9 +10,23 @@ P.S.**I might be an Electronics engineer by degree, but I bring more spark to my
 
 ---
 
-## 🛠 Skills
-- **Languages:** C, C++, Python, Java, JavaScript  
-- **Frameworks & Libraries:** NumPy, Pandas, Matplotlib, Tailwind CSS, Express.js  
+## 🛠 Skills  
+
+- **Languages:**  
+  C, C++, Python, Java, JavaScript  
+
+- **Frontend:**  
+  React.js, Next.js, Tailwind CSS  
+
+- **Backend:**  
+  Express.js, Node.js  
+
+- **Databases & ORM:**  
+  MongoDB, PostgreSQL, Prisma  
+
+- **Libraries & Tools:**  
+  NumPy, Pandas, Matplotlib  
+
 
 ---
 
